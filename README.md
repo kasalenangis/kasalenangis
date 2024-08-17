@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kasalenangis
-- 👀 I’m interested in ...programming and computer skills in inventions
-- 🌱 I’m currently learning ...computer science
-- 💞️ I’m looking to collaborate on ...programming,gamming,cybersecurity,ethnical hacking,computer software design and network bussiness.
+- 👀 I’m interested in ...programming for inventions
+- 🌱 I’m currently learning.
 - 📫 How to reach me ...my email is nangiskasale919@gmail.com 
 
 <!---
